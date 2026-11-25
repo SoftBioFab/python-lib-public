@@ -5,6 +5,7 @@ Small Python scripts for data and image analysis. Each folder contains one scrip
 | Folder | Description |
 |---|---|
 | [msd-random-walk](msd-random-walk) | 2D random walk simulation, MSD with errors, fit of the diffusion coefficient |
+| [detect-rods](detect-rods) | Detection of rod-shaped objects (e.g. bacteria), orientation and size |
 
 ## Setup
 

@@ -1,2 +1,8 @@
 numpy
 matplotlib
+scipy
+seaborn
+opencv-python
+scikit-image
+tifffile
+pandas

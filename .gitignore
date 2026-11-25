@@ -23,7 +23,17 @@ env/
 *.h5
 *.tif
 *.tiff
+*.lsm
+# Example image, kept in the repo
+!detect-rods/image2.lsm
+*.czi
+*.dat
+*_rods.csv
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# PDF and SVG exports (heavy, keep local)
+*.pdf
+*.svg
